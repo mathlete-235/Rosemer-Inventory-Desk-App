@@ -1,0 +1,73 @@
+Timer for sms send. 
+handle prepayment 
+multiple product prepayment error    
+return inwards/outwards
+increasing font size and font selection
+ADMIN ADD NEW USER >> lOCAL AND ONLINE USER DATABASE
+bulk_discount_min_and limit
+prompt_discount_min and max limit
+
+
+add a checkbox that optionally add an attendant column displaying user who modified record
+do that for reversals. only admin can see reversal logs 
+ 
+
+grid lines styling.
+status bar update 
+
+style_sheet >> surround qlinedit 
+sales_amount more than owed  
+selection_highlight_color
+highlight_color
+closing and file has been deleted >> prompt to save again 
+send sales  report to admin via telegram 
+
+
+print ... 
+user logs 
+
+
+print reports
+  sms
+
+Logging of transaction edit , home_page activity logging, logout logging not done
+home_page activity logging >> theme changes, settings, user management 
+customer_sms feature >> debt collection, gps locator, goods available  
+whatsapp
+
+
+Currency symbol settings for universal symbols 
+total sales summary >> on inventory and customer    
+user role and permission bindings (add stock, edit stock delete stock reverse payment, edit payment, edit transaction, reverse transaction)  >> user not an admin can add stock but can't reverse payment 
+logging of reversals by admin >> which admin did what
+
+  
+table schema add columns    
+export_to-pdf
+receipt redesign 
+ 
+transaction_edit date of transaction
+payment_history and transaction_history_of_customer >> max(len(product)) for left justivication
+
+
+
+
+http://bulksms.mtn.com.gh/PAGES/LOGIN.aspx
+
+faya sms
+name: Samuel Ankomah
+number 0509860256
+email:mathlete.sage@gmail.com
+
+pass: Tuga_1_Best
+
+name: Sarfo Gyamfi
+email: gyamfy96@gmail.com
+pass: Tuga_1_Best
+
+  
+user bindings >> admin_pass_remove
+theming
+
+
+
